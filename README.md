@@ -1,12 +1,12 @@
 # SQL project P2: quality of life
 
 ## Project overview
-- Project title:Quality
-- Database: 
+- Project title: Quality of life data
+- Database: db
 
 
 ## Objective
-
+Evaluate my SQL skills usings a db of kaggle 
 
 
 ## Project Structure
